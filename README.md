@@ -13,8 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="arnabdey0503 | YouTube" width="30px" src="https://www.youtube.com/channel/UCNZ-DP3bVu8plPFP3qQW67Q" />]
-
+[<img align="left" alt="arnabdey0503 | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 
 
