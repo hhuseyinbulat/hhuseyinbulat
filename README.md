@@ -5,8 +5,7 @@
    ## I'm a Husband, Father and SDET
    
    
-- 👀 I’m interested QA Test Engineer and 
-      learning new programming languages
+- 👀 I’m interested Test Engineer and learning new programming languages
 - 🔭 I’m currently working on Java Projects
 - 🌱 I’m currently learning Selenium and API
 - 📫 How to reach me: hacihuseyinbulat@gmail.com
