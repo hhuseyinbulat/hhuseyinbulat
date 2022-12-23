@@ -23,6 +23,12 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />][github]
+[<img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />][github]
+[<img align="left" alt="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />][github]
+[<img align="left" alt="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />][github]
+[<img align="left" alt="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />][github]
+[<img align="left" alt="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />][github]
+[<img align="left" alt="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />][github]
 
 
           
