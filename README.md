@@ -22,3 +22,8 @@
           
 
 
+[twitter]: https://twitter.com/h_huseyinbulat
+[youtube]: https://www.youtube.com/channel/UCNZ-DP3bVu8plPFP3qQW67Q
+[instagram]: https://www.instagram.com/hhuseyinbulat/
+[linkedin]: https://www.linkedin.com/in/hacihuseyinbulat/
+[github]:  https://github.com/hhuseyinbulat
