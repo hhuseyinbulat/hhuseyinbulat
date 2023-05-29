@@ -2,12 +2,11 @@
    
    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="240" />
    
-   ## I'm a husband, father and SDET
+   ## I'm a Software Test Automation Engineer
    
    
-- 👀 I’m learning new programming languages
-- 🔭 I’m currently working on Java Projects
-- 🌱 I’m currently learning Selenium and API
+- 👀 I’m learning new programming languages and tools related to my field
+- 🔭 I’m currently doing some testing of a project
 - 📫 How to reach me: hacihuseyinbulat@gmail.com
 - ⚡ Fun fact: I really love coding💻, playing football⚽ and tennis🎾
 
